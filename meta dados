@@ -1,0 +1,40 @@
+Caracterizar padrões de visualização em site de conteúdo adulto
+
+
+
+
+
+
+
+
+
+Vídeos em geral consomem muita banda e são alvos frequentes de pesquisa, mas não quando se trata do conteúdo adulto e são eles que movimentam boa parte da banda mundial, além de ser uma indústria muito rica.
+
+O objetivo deste trabalho é a partir do consumo de conteúdo adulto através do site Porn Hub, são gerados histogramas, que representam a porcentagem de usuários que viu determinada cena em cada vídeo, com isso será possível fazer uma análise desses valores, e achar possíveis padrões de visualização.
+
+Foi necessária a obtenção dos dados e isso demorou um tempo relativamente grande no cronograma, já que não existe nenhuma API com esta finalidade. Foi utilizado ferramentas Web Scraping, para a obtenção de todos dados necessários.
+
+Após os dados serem obtidos serão feitos estudos nele para achar os padrões. 
+
+
+
+
+
+
+
+k-shape; clustering; adult content;
+
+
+
+
+
+
+Giovanni Comarela
+
+
+
+
+
+
+
+
